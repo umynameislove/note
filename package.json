@@ -1,0 +1,13 @@
+{
+  "name": "note",
+  "version": "1.0.0",
+  "private": true,
+  "homepage": "https://umynameislove.github.io/note",
+  "scripts": {
+    "predeploy": "echo 'ready to deploy...'",
+    "deploy": "gh-pages -d ."
+  },
+  "devDependencies": {
+    "gh-pages": "^6.3.0"
+  }
+}
